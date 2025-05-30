@@ -1,5 +1,12 @@
 # Howden Project
 
+### How to run with docker
+```
+./start-containers.sh
+```
+
+
+
 
 ### Time Spent
 I spent about a day with half the time creating backend for api and the other half to create the frontend to communicate with the backend.
